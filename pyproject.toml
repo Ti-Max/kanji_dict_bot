@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "kanji-dict-bot"
+authors = []
+description = ""
+version = "0.1.0"
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+pprintpp = "^0.4.0"
+anki = "^24.4.1"
+termcolor = "^2.4.0"
+python-telegram-bot = "^21.2"
+python-dotenv = "^1.0.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
