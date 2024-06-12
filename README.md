@@ -1,3 +1,7 @@
+Update:
+Just use the website directly: https://www.wanikani.com/kanji/人
+
+
 # Kanji mnemonics dictionary
 This is a Telegram bot made with [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot).
 
