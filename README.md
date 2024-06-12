@@ -3,8 +3,8 @@ This is a Telegram bot made with [python-telegram-bot](https://github.com/python
 
 [WaniKani anki deck](https://ankiweb.net/shared/info/2072613354) was used as a dictionary source.
 
-The bot is ***maybe*** live [@wanikani_cards_bot](https://t.me/wanikani_cards_bot) <br>
-To start, simply send one single kanji or radical
+~~The bot is ***maybe*** live [@wanikani_cards_bot](https://t.me/wanikani_cards_bot) <br>
+To start, simply send one single kanji or radical~~
 
 # Features
 * Search Meaning & Mnemonics of *2048* Kanji
